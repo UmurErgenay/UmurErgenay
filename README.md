@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi, I'm Umur 👋
+# Hi, I'm Umur 👋
 
 - I am currently learning data analytics with Python and SQL.
 
@@ -21,5 +21,5 @@ Here are some ideas to get you started:
   - Mobile app development with Kotlin
   - Web app development with ASP.NET MVC
 
-### Connect with me:
+## Connect with me:
 <a href="https://www.linkedin.com/in/umur-ergenay/"><img src="https://marka-logo.com/wp-content/uploads/2020/04/Linkedin-Logo.png" width="126" height="71"></img></a>
