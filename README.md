@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Umur 👋
 
-- I am currently learning data analytics with Python and SQL.
-
 - I have a bit of experience in
   - Game development with Unity
   - Mobile app development with Kotlin
