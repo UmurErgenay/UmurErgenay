@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - I have a bit of experience in
   - Game development with Unity
   - Mobile app development with Kotlin
-  - Web app development with ASP.NET MVC
+  - Web app development with ASP.NET MVC and Vue.js
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/umur-ergenay/"><img src="https://marka-logo.com/wp-content/uploads/2020/04/Linkedin-Logo.png" width="126" height="71"></img></a>
