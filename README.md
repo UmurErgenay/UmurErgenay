@@ -20,4 +20,4 @@ Here are some ideas to get you started:
   - Web app development with ASP.NET MVC and Vue.js
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/umur-ergenay/"><img src="https://marka-logo.com/wp-content/uploads/2020/04/Linkedin-Logo.png" width="126" height="71"></img></a>
+<a href="https://www.linkedin.com/in/umur-ergenay/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="63" height="36"></img></a>
