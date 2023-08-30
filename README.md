@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Umur 👋
 
-- I have a bit of experience in
+- I am a Front-End Developer using;
+  - Vue.js, JavaScript, and TypeScript.
+
+- In addition, I have a bit of experience in
   - Game development with Unity
   - Mobile app development with Kotlin
-  - Web app development with ASP.NET MVC and Vue.js
+  - Web app development with ASP.NET MVC
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/umur-ergenay/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="50" height="50"></img></a>
