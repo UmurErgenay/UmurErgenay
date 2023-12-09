@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - I am a Front-End Developer using;
   - Vue.js, JavaScript, and TypeScript.
 
-- In addition, I have a bit of experience in
+- In addition, I have knowledge about;
+  - Unit testing with Jest
+  - Scripting with Python
   - Game development with Unity
   - Mobile app development with Kotlin
   - Web app development with ASP.NET MVC
